@@ -1,0 +1,8 @@
+house_id,village_area,full_address,rent,rooms,bathrooms,house_type,area_size,furnished,owner_contact,description,date_added
+H001,Hayatabad Phase 3,Street 5 Sector K Hayatabad,35000,3,2,House,5 Marla,Semi,3001234567,Peaceful street near park with parking space,2026-08-01
+H002,University Town,Old Jamrud Road near GT Road,60000,4,3,House,8 Marla,Yes,3019876543,Spacious house close to university and market,2026-08-02
+H003,Gulbahar,Main Gulbahar No 3,20000,2,1,Portion,3 Marla,No,3215557890,Ground portion suitable for small family,2026-08-03
+H004,Warsak Road,Near Warsak Dam Road Phase 2,45000,3,2,Flat,6 Marla,Yes,3337778899,Second floor flat with balcony and lift,2026-08-04
+H005,Faqirabad,Street 12 Faqirabad,15000,1,1,Portion,2 Marla,No,3459990011,Single room portion ideal for bachelors,2026-08-05
+H006,Hayatabad Phase 5,Sector J-3 Hayatabad,80000,5,4,House,10 Marla,Yes,3111223344,Double storey house with lawn and servant quarter,2026-08-06
+H007,Board Bazar Peshawar,Danish Abad Board Bazar Peshawar,10000,2,2,House,5,Semi,03222222222,Good for couple,2026-08-11
